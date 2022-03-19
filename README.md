@@ -1,4 +1,4 @@
-I enjoy developing and using simple, opensource tools that make work more efficient.
+I enjoy developing and using simple, open source tools that make work more efficient.
 
 #### Languages
 - Recently learning: rust
