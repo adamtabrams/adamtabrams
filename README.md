@@ -2,7 +2,9 @@ I enjoy making simple, open source tools that make work more efficient.
 
 #### Learning
 - OCaml
-- Lua 
+- Zig
+- Lua
+- Homelabbing 
 
 #### Enjoy
 - Golang
