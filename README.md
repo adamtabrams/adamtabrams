@@ -1,13 +1,14 @@
-I enjoy making simple, open source tools that make work more efficient.
+I enjoy making simple, open source tools focused on efficiency.
 
-#### Learning
-- OCaml
-- Zig
-- Lua
-- Homelabbing 
-
-#### Enjoy
+#### Favorites
 - Golang
 - Posix shell
 - Neovim BTW
 - TUIs
+
+#### Interested in
+- Lua
+- Elixir
+- OCaml
+- Zig
+- Homelabbing 
